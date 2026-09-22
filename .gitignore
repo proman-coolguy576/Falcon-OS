@@ -1,0 +1,24 @@
+# Build files
+*.o
+*.elf
+*.bin
+*.img
+
+# Debug/build directories
+build/
+dist/
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
